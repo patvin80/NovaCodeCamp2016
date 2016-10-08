@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp2", "OfficeApp2\OfficeApp2.csproj", "{4C437449-1D5C-4796-8B51-0633398B9E4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCC2016ToneAnalyzer", "OfficeApp2\NCC2016ToneAnalyzer.csproj", "{4C437449-1D5C-4796-8B51-0633398B9E4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp2Web", "OfficeApp2Web\OfficeApp2Web.csproj", "{E17FF744-A0CD-45F5-8AC9-6D4E1B3EF373}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCC2016ToneAnalyzerWeb", "OfficeApp2Web\NCC2016ToneAnalyzerWeb.csproj", "{E17FF744-A0CD-45F5-8AC9-6D4E1B3EF373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

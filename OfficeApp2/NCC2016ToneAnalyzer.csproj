@@ -42,18 +42,18 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="OfficeApp2Manifest\SharePointProjectItem.spdata">
+    <None Include="NCC2016ToneAnalyzerManifest\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{fb09b6c4-c24e-4402-8444-c95dd6923e97}</SharePointProjectItemId>
     </None>
-    <Content Include="OfficeApp2Manifest\OfficeApp2.xml">
+    <Content Include="NCC2016ToneAnalyzerManifest\NCC2016ToneAnalyzer.xml">
       <OpcRelationship>manifest-oemanifest</OpcRelationship>
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OfficeApp2Web\OfficeApp2Web.csproj">
+    <ProjectReference Include="..\OfficeApp2Web\NCC2016ToneAnalyzerWeb.csproj">
       <Project>{E17FF744-A0CD-45F5-8AC9-6D4E1B3EF373}</Project>
-      <Name>OfficeApp2Web</Name>
+      <Name>NCC2016ToneAnalyzerWeb</Name>
       <Private>True</Private>
       <RoleType>Web</RoleType>
       <OutputItemType>SharePointWebProjectOutput</OutputItemType>

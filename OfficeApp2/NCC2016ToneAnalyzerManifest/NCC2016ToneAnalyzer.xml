@@ -5,7 +5,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Microsoft</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="ToneAnalyzer" />
+  <DisplayName DefaultValue="NCC2016ToneAnalyzer" />
   <Description DefaultValue="Analyze Tone Description"/>
   <Capabilities>
     <Capability Name="Mailbox" />
