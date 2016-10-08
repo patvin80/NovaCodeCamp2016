@@ -8,7 +8,8 @@ A Repository to store the Nova Code Camp Code Packages presented by Vinit Patank
 
 ## Questions:
 
-
+1. Does it work with Outlook.com or Hotmail .com - No
+2. Tone analysis JSON Structure: http://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#post-tone
 
 ## References
 
